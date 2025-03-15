@@ -1,6 +1,6 @@
-# 国内免费 ChatGPT 镜像网站整理：支持 GPT-4 和 4o，无需翻墙 【2025/03/13更新】
+# 国内免费 ChatGPT 镜像网站整理：支持 GPT-4 和 4o，无需翻墙 【2025/03/16更新】
 
-> 更新时间：2025/03/13
+> 更新时间：2025/03/16
 > 
 > 作者：Cailailai
 
@@ -8,7 +8,7 @@
 
 如果您想在国内使用ChatGPT，我们为您整理了最新的国内可用 ChatGPT 镜像网站资源。
 
-这些镜像网站无需翻墙，并支持ChatGPT-4，您可以无限制地使用GPT-4o、o1及其中文版功能。
+这些镜像网站无需翻墙，并支持ChatGPT-4，您可以无限制地使用GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3及其中文版功能。
 
 ## 为什么选择使用 ChatGPT镜像网站？
 
@@ -23,7 +23,7 @@ ChatGPT镜像网站是专为国内用户开发的中文版平台，提供了一�
 
 ## 推荐的 ChatGPT镜像网站
 
-- **松鼠AI** ([https://songshugpt.com](https://songshugpt.com )) 上线快两年，支持GPT-4、4o、4o mini及o1，提供AI绘画功能，用户可通过简单扫码快速使用。
+- **松鼠AI** ([https://songshugpt.com](https://songshugpt.com )) 上线快两年，支持GPT-4、4o、4o、GPT-o1、GPT-o3、Deepseek、Grok3，提供AI绘画功能，用户可通过简单扫码快速使用。
 - **AI狗** ([https://gptdog.online/](https://gptdog.online/)) 已运营近两年，支持GPT-4、4o及o1，提供AI文件、AI PPT、AI助手、AI插件功能和思维导图。
 - **AI智慧猫** ([gptcat.net](https://gptcat.net)) 运营一年多，支持GPT-4、4o，并支持AI绘画功能（包括Midjourney和Dall·E），适合创意工作者。
 - **熊猫GPT** ([ai-panda.xyz](https://ai-panda.xyz)) 提供便捷的ChatGPT-4镜像，支持GPT-4、4o，适合快速访问。
